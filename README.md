@@ -314,8 +314,4 @@ Options are copied at construction, so mutating the instance afterwards has no e
 
 ## License
 
-**GNU General Public License, version 3.** The full text is in [LICENSE.txt](LICENSE.txt).
-
-This is a copyleft license: if you distribute this library, or a program that links against it,
-you must make the corresponding source available under the GPLv3 as well. That applies to the
-`SRPC.Client` NuGet package too — it ships the same license.
+The full text is in [LICENSE.txt](LICENSE.txt).
